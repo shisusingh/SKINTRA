@@ -642,7 +642,7 @@ section {
 --------------------------------------------------------------*/
 .why-us .content {
   padding: 30px;
-  background: #1977cc;
+  background: #fdf7b27a;
   border-radius: 4px;
   color: #fff;
 }
@@ -1094,7 +1094,7 @@ section {
 
 .anyClass {
   height:250px;
-  overflow-y: scroll;
+  overflow-x: scroll;
 }
 
 .products {
